@@ -1,0 +1,41 @@
+@hostname = http://localhost:8000/api
+
+###
+GET {{hostname}}/cloths.get
+Content-Type: application/json
+
+###
+GET {{hostname}}/cloths.get/2
+Content-Type: application/json
+
+###
+POST {{hostname}}/cloths.create
+Content-Type: application/json
+
+{
+    "brand" : "louis vuitton",
+    "category" : "chain",
+    "price" : 3000,
+    "color" : "gold",
+    "used" : false,
+    "season" : "2001-09-06",
+    "detail" : "some some some some"
+}
+
+###
+DELETE  {{hostname}}/cloths.delete/2
+Content-Type: application/json
+
+###
+POST {{hostname}}/cloths.update/700
+Content-Type: application/json
+
+{
+    "brand" : "louis vuitton",
+    "category" : "chain",
+    "price" : 3000,
+    "color" : "gold",
+    "used" : false,
+    "season" : "2001-09-06",
+    "detail" : "some some some some"
+}
