@@ -1,0 +1,18 @@
+# ninja log v6
+242	3460	7698125685582350	CMakeFiles/lab3.dir/clientinterface.cpp.obj	94c210a98b0b8223
+73	237	7698125683893436	lab3_autogen/timestamp	25b815b47125abe2
+73	237	7698125683893436	lab3_autogen/mocs_compilation.cpp	25b815b47125abe2
+509	3025	7698111818629200	CMakeFiles/lab3.dir/main.cpp.obj	1fa815c02949db8e
+73	237	7698125683893436	C:/QT LAB3/lab3/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/lab3_autogen/timestamp	25b815b47125abe2
+73	237	7698125683893436	C:/QT LAB3/lab3/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/lab3_autogen/mocs_compilation.cpp	25b815b47125abe2
+239	3451	7698125685552490	CMakeFiles/lab3.dir/mainwindow.cpp.obj	241a5ea53eec2447
+505	3074	7698111818589142	CMakeFiles/lab3.dir/lab3_autogen/mocs_compilation.cpp.obj	be55489201ce109b
+3460	3668	7698125717761417	lab3.exe	7f6cd48c555ad26d
+79	1517	7691894044210533	build.ninja	c8030ddc2c3896d7
+72	226	7698126685920535	lab3_autogen/timestamp	25b815b47125abe2
+72	226	7698126685920535	lab3_autogen/mocs_compilation.cpp	25b815b47125abe2
+72	226	7698126685920535	C:/QT LAB3/lab3/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/lab3_autogen/timestamp	25b815b47125abe2
+72	226	7698126685920535	C:/QT LAB3/lab3/build/Desktop_Qt_6_9_0_MSVC2022_64bit-Debug/lab3_autogen/mocs_compilation.cpp	25b815b47125abe2
+231	3555	7698126687505878	CMakeFiles/lab3.dir/clientinterface.cpp.obj	94c210a98b0b8223
+227	3567	7698126687475867	CMakeFiles/lab3.dir/mainwindow.cpp.obj	241a5ea53eec2447
+3568	3763	7698126720885889	lab3.exe	7f6cd48c555ad26d
